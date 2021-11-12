@@ -1,14 +1,6 @@
-/* Специфичность - 0 0 1 0 */
-.post-title {
-  color: green;
+.slogan {
+  color: blue;
 }
-
-/* Специфичность - 0 0 1 1 */
-.post > h1 {
-  color: red;
-}
-
-/* ✅ Специфичность - 0 0 2 0 */
-.post > .post-title {
-  color: orange;
+.word {
+  vertical-align: -10px;
 }
