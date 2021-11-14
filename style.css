@@ -1,14 +1,8 @@
-.slogan {
-  margin-left: auto;
-  margin-right: auto;
-  width: 6em;
-}
-.word {
-  vertical-align: -10px;
-}
-.image {
-  position: static;
-  box-shadow: inset 0 0 6px 4px rgba(0, 0, 0, 0.7);
-  width: 200px;
-  height: 250px;
+.top {
+  margin-top: 100px;
+  margin-left: 40px;
+  color: white;
+  background-color: red;
+  padding-top: 50px;
+  font-size: impact;
 }
