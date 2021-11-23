@@ -1,8 +1,4 @@
-.top {
-  margin-top: 100px;
-  margin-left: 40px;
-  color: white;
-  background-color: red;
-  padding-top: 50px;
-  font-size: impact;
+.title {
+  color: #ffffff;
+  text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
 }
